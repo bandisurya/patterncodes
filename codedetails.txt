@@ -6,4 +6,7 @@ For finding ascii values
 
 Q)2
  printing variables using f string.
+
+ Q)3
+ how to print inside a print statement using format keyword
  
